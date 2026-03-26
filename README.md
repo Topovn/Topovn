@@ -1,6 +1,6 @@
 ## Hello 
 
-Just someone who likes to satify his curiosity in tech
+Just someone who likes to satify his curiosity in tech, mostly to solve personal problems
 
 <!--
 **Topovn/Topovn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
