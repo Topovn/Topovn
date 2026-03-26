@@ -1,5 +1,6 @@
 ## Hello 
 
+Just someone who likes to satify his curiosity in tech
 
 <!--
 **Topovn/Topovn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
